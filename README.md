@@ -3,7 +3,7 @@ Purpose of the hello-world repository:
 
 My ideas I want to share and discuss with you
 
-#Why I joined Github
+## Why I joined Github
 
 Hey Guys!
 
@@ -13,4 +13,9 @@ I hope this will ultimatly bring me one step further to writing my first app for
 
 yours
 
-S-Raven
+@S-Raven
+
+## What looks interesting so far:
+* https://github.com/integrations/reviewninja  *- seems to need strange heroku account but quality reviewing sounds good*
+
+* https://github.com/fastlane  *- Wow this looks like it could help me a lot with an own app*
